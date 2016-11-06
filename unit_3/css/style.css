@@ -32,9 +32,6 @@ p {
 	padding: 15px 0px 15px 0px;
 }
 
-#inlay{
-	padding: 0px 40px 0px 40px;
-}
 
 hr{
 	color: #f2fefb;
@@ -65,14 +62,14 @@ nav {
 }
 
 #wrapper{
-	margin: 0 auto;
+	margin: 10em auto;
 	width: 1200px;
 	background-color: #f9e3ab;
 
 }
 
 #main {
-	padding: 1em, 5em, 5em, 5em;
+	padding: 1em, 5em, 5em, 10em;
 }
 
 footer {
