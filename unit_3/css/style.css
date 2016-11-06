@@ -1,6 +1,6 @@
 body {
-	color: #00aaff;
 	background: #fdc9ed;
+	font-color: #00aaff;
 	max-width: 1000px;
 	margin-top: 100px;
 	margin-left: 100px;
@@ -32,6 +32,20 @@ p {
 	font-size: 18px;
 	line-height: 1.5em;
 	padding: 15px 0px 15px 0px;
+}
+
+#note{
+	font-weight: normal;
+	font-color: #c9edfd;
+	font-family: 'Cutive Mono', monospace;
+	font-size: 18px;
+	line-height: 1.5em;
+	padding: 15px 0px 15px 0px;
+}
+
+hr{
+	color: #f2fefb;
+	border-width: 2px;
 }
 
 a{
