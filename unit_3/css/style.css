@@ -57,6 +57,7 @@ nav {
 	font-family: 'Cutive Mono', monospace;
 	font-color: #ffff66;
 	background-color: #e3abf9;
+	padding: 20px 0px 0px 0px;
 }
 
 #wrapper{
@@ -77,6 +78,5 @@ footer {
 	color: #abc1f9;
 	font-height: 2em;
 	background-color: #e3abf9;
-	border-color: #f9e3ab;
-	border-radius: 3px;
+	padding: 20px 0px 0px 0px;
 }
