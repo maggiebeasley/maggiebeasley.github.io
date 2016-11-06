@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-	color: #32BBFF;
+	color: #00AAFF;
 	font-weight: normal;
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
@@ -45,6 +45,7 @@ a{
 ul {
 	list-style-type: square;
 	font-weight: normal;
+	color: #00AAFF
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
