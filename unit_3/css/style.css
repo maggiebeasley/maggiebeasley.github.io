@@ -67,15 +67,17 @@ nav {
 	font-family: 'Cutive Mono', monospace;
 	font-color: #ffff66;
 	background-color: #e3abf9;
-	padding: 5em;
 }
 
 #wrapper{
 	margin: 0 auto;
 	width: 1200px;
 	background-color: #f9e3ab;
-	padding: 5em;
 
+}
+
+#main {
+	padding: 5em;
 }
 
 footer {
@@ -87,5 +89,4 @@ footer {
 	background-color: #e3abf9;
 	border-color: #f9e3ab;
 	border-radius: 3px;
-	padding: 5em;
 }
