@@ -47,3 +47,27 @@ ul {
 	line-height: 1.5em;
 }
 
+nav {
+	font-size: 28px;
+	font-height: 2em;
+	font-style: bold;
+	font-family: 'Cutive Mono', monospace;
+	font-color: #ffff66;
+	background-color: #e3abf9;
+
+}
+
+#wrapper{
+	margin: 0 auto;
+	width: 1200px;
+	background-color: #f9e3ab;
+}
+
+footer {
+	font-size: 28px;
+	font-style: bold;
+	font-family: 'Cutive Mono', monospace;
+	font-color: #ffff66;
+	font-height: 2em;
+	background-color: #e3abf9;
+}
