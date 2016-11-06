@@ -33,7 +33,7 @@ p {
 }
 
 #inlay{
-	padding: 0px 20px 0px 20px;
+	padding: 0px 40px 0px 40px;
 }
 
 hr{
@@ -62,7 +62,6 @@ nav {
 	font-family: 'Cutive Mono', monospace;
 	font-color: #ffff66;
 	background-color: #e3abf9;
-	padding: 10px 0px 10px 0px;
 }
 
 #wrapper{
@@ -83,5 +82,5 @@ footer {
 	color: #abc1f9;
 	font-height: 2em;
 	background-color: #e3abf9;
-	padding: 20px 20px 0px 20px;
+	padding: 60px 40px 0px 40px;
 }
