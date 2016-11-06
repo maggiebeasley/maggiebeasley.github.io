@@ -1,13 +1,12 @@
 body {
 	background: #fdc9ed;
-	font-color: #00aaff;
 	max-width: 1200px;
-	margin: 100px, 100px, 100px, 0px;
+	margin: 100px, 100px 0px 100px;
 	}
 
 h1, h2, h3, h4 {
 	font-family: 'Cutive Mono', monospace;
-	font-color: #00aaff;
+	color: #00aaff;
 }
 
 h1 {
@@ -25,7 +24,7 @@ h2 {
 }
 
 p {
-	font-color: #00aaff;
+	color: #00aaff;
 	font-weight: normal;
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
@@ -84,7 +83,7 @@ footer {
 	font-size: 28px;
 	font-style: bold;
 	font-family: 'Cutive Mono', monospace;
-	font-color: #ffff66;
+	color: #ffff66;
 	font-height: 2em;
 	background-color: #e3abf9;
 	border-color: #f9e3ab;
