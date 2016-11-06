@@ -24,17 +24,8 @@ h2 {
 }
 
 p {
-	color: #00aaff;
+	color: #32BBFF;
 	font-weight: normal;
-	font-family: 'Cutive Mono', monospace;
-	font-size: 18px;
-	line-height: 1.5em;
-	padding: 15px 0px 15px 0px;
-}
-
-#note{
-	font-weight: normal;
-	font-color: #c9edfd;
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
@@ -76,14 +67,14 @@ nav {
 }
 
 #main {
-	padding: 5em;
+	padding: 20px;
 }
 
 footer {
 	font-size: 28px;
 	font-style: bold;
 	font-family: 'Cutive Mono', monospace;
-	color: #ffff66;
+	color: #abc1f9;
 	font-height: 2em;
 	background-color: #e3abf9;
 	border-color: #f9e3ab;
