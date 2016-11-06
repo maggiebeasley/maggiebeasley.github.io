@@ -32,6 +32,10 @@ p {
 	padding: 15px 0px 15px 0px;
 }
 
+#inlay{
+	padding: 0px 20px 0px 20px;
+}
+
 hr{
 	color: #f2fefb;
 	border-width: 2px;
@@ -45,7 +49,7 @@ a{
 ul {
 	list-style-type: square;
 	font-weight: normal;
-	color: #00AAFF
+	color: #00AAFF;
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
@@ -58,7 +62,7 @@ nav {
 	font-family: 'Cutive Mono', monospace;
 	font-color: #ffff66;
 	background-color: #e3abf9;
-	padding: 20px 0px 0px 20px;
+	padding: 10px 0px 10px 0px;
 }
 
 #wrapper{
