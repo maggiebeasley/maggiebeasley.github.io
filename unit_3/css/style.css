@@ -2,7 +2,7 @@ body {
 	background: #fdc9ed;
 	font-color: #00aaff;
 	max-width: 1200px;
-	margin: 100px;
+	margin: 100px, 100px, 100px, 0px;
 	}
 
 h1, h2, h3, h4 {
