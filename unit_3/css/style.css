@@ -68,13 +68,13 @@ nav {
 	font-family: 'Cutive Mono', monospace;
 	font-color: #ffff66;
 	background-color: #e3abf9;
-
 }
 
 #wrapper{
 	margin: 0 auto;
 	width: 1200px;
 	background-color: #f9e3ab;
+	padding:; 5em;
 
 }
 
