@@ -47,16 +47,38 @@ ul {
 
 nav {
 	background-color: #e3abf9;
+	padding: 20px;
 }
 
 #wrapper{
-	margin: 8em auto;
+	margin: 2em auto;
 	width: 1200px;
 	background-color: #f9e3ab;
 
 }
 
+aside {
+	background-color: #ffff66;
+    padding: 20px;
+}
+
+article {
+	background-color: #ffff66;
+    padding: 20px;
+}
+
+header {
+    background-color: #fdc9ed;
+    border-color: #f9e6f0;
+    border-width: 1px;
+    padding: 20px;
+}
 
 footer {
 	background-color: #e3abf9;
+	padding: 20px;
+}
+
+section {
+	background-color: #ffff66;
 }
