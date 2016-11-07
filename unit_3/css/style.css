@@ -1,6 +1,5 @@
 body {
 	background: #fdc9ed;
-	margin: 1em 10em 3em 10em;
 	}
 
 h1, h2, h3, h4 {
@@ -12,14 +11,12 @@ h1 {
 	font-weight: bold;
 	font-size: 32px;
 	line-height: 1.5em;
-	padding: 15px 0px 15px 0px;
 }
 
 h2 {
 	font-weight: normal;
 	font-size: 26px;
 	line-height: 1.5em;
-	padding: 15px 0px 15px 0px;
 }
 
 p {
@@ -28,13 +25,11 @@ p {
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
-	padding: 15px 0px 15px 0px;
 }
 
 
 hr{
 	color: #f2fefb;
-	border-width: 2px;
 }
 
 a{
@@ -49,27 +44,21 @@ ul {
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
-	
+
 }
 
 nav {
 	background-color: #e3abf9;
-	padding: 2em 3em 2em 3em;
 }
 
 #wrapper{
 	margin: 10em auto;
 	width: 1200px;
 	background-color: #f9e3ab;
-	margin: 20px 100px 100px 100px;
 
 }
 
-#main{
-	padding: 1em, 20em, 5em, 20em;
-}
 
 footer {
 	background-color: #e3abf9;
-	padding: 2em 3em 2em 3em;
 }
