@@ -49,11 +49,12 @@ ul {
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
+	
 }
 
 nav {
 	background-color: #e3abf9;
-	padding: 10em 20em 10em 20em;
+	padding: 2em 3em 2em 3em;
 }
 
 #wrapper{
@@ -64,16 +65,11 @@ nav {
 
 }
 
-#nav-style{
-	font-size: 28px
-}
-
-
 #main{
 	padding: 1em, 20em, 5em, 20em;
 }
 
 footer {
 	background-color: #e3abf9;
-	padding: 40em 20em 20em 20em;
+	padding: 2em 3em 2em 3em;
 }
