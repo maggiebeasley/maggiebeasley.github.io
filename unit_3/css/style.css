@@ -58,19 +58,19 @@ nav {
 }
 
 aside {
-	background-color: #ffffa3;
+	background-color: #f9e3ab;
     padding: 30px;
 }
 
 article {
-	background-color: #ffffa3;
+	background-color: #f9e3ab;
     padding: 30px;
 }
 
 header {
     background-color: #e3abf9;
     border-color: #e3abf9;
-    border-width: 1px;
+    border-width: .5px;
     padding: 30px;
 }
 
@@ -80,5 +80,5 @@ footer {
 }
 
 section {
-	background-color: #ffffa3;
+	background-color: #f9e3ab;
 }
