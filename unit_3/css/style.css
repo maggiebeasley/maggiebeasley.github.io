@@ -53,24 +53,17 @@ nav {
 #wrapper{
 	margin: 2em auto;
 	width: 1200px;
-	background-color: #f9e3ab;
+	background-color: #eff097;
 
 }
 
 aside {
-	background-color: #f9e3ab;
+	background-color: #eff097;
     padding: 30px;
 }
 
 article {
-	background-color: #f9e3ab;
-    padding: 30px;
-}
-
-header {
-    background-color: #e3abf9;
-    border-color: #e3abf9;
-    border-width: .5px;
+	background-color: #eff097;
     padding: 30px;
 }
 
@@ -80,5 +73,5 @@ footer {
 }
 
 section {
-	background-color: #f9e3ab;
+	background-color: #eff097;
 }
