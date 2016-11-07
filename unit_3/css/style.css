@@ -27,7 +27,6 @@ p {
 	line-height: 1.5em;
 }
 
-
 hr{
 	color: #f2fefb;
 }
@@ -44,7 +43,6 @@ ul {
 	font-family: 'Cutive Mono', monospace;
 	font-size: 18px;
 	line-height: 1.5em;
-
 }
 
 nav {
@@ -52,7 +50,7 @@ nav {
 }
 
 #wrapper{
-	margin: 10em auto;
+	margin: 8em auto;
 	width: 1200px;
 	background-color: #f9e3ab;
 
