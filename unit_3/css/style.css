@@ -1,77 +1,39 @@
 body {
+	color: #00aaff;
 	background: #fdc9ed;
-	}
-
-h1, h2, h3, h4 {
-	font-family: 'Cutive Mono', monospace;
-	color: #19a3e7;
+	font-family: helvetica, arial, sans-serif;
+	max-width: 1200px;
+	padding: 0px, 200px, 0px, 200px;
 }
 
 h1 {
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 32px;
-	line-height: 1.5em;
+	line-height: 36px;
+	padding: 50px 0px 50px 0px;
 }
 
 h2 {
 	font-weight: normal;
 	font-size: 26px;
-	line-height: 1.5em;
+	line-height: 30px;
+	padding: 50px 0px 50px 0px;
 }
 
 p {
-	color: #19a3e7;
 	font-weight: normal;
-	font-family: 'Cutive Mono', monospace;
-	font-size: 18px;
-	line-height: 1.5em;
-}
-
-hr{
-	color: #f2fefb;
+	font-size: 16px;
+	line-height: 20px;
+	padding: 50px 0px 50px 0px;
 }
 
 a{
-	color: #ffff66;
-	text-decoration: none;
+	color: #4b00f2;
 }
 
 ul {
-	list-style-type: square;
 	font-weight: normal;
-	color: #19a3e7;
-	font-family: 'Cutive Mono', monospace;
-	font-size: 18px;
-	line-height: 1.5em;
+	font-size: 14px;
+	line-height: 20px;
 }
 
-nav {
-	background-color: #e3abf9;
-	padding: 5px 0px 5px 30px;
-}
-
-#wrapper{
-	margin: 2em auto;
-	width: 1200px;
-	background-color: #f4ebcd;
-
-}
-
-aside {
-	background-color: #eff097;
-    padding: 30px;
-}
-
-article {
-	background-color: #eff097;
-    padding: 30px;
-}
-
-footer {
-	background-color: #e3abf9;
-	padding: 30px 30px 15px 30px;
-}
-
-section {
-	background-color: #eff097;
-}
