@@ -51,10 +51,9 @@ nav {
 }
 
 #wrapper{
-	margin: 2em auto;
-	width: 1200px;
-	background-color: #f9e3ab;
-
+	margin: 1em auto;
+	width: 1600px;
+	background-color: #e8dab9;
 }
 
 aside {
@@ -71,7 +70,7 @@ header {
     background-color: #e3abf9;
     border-color: #e3abf9;
     border-width: 1px;
-    padding: 30px;
+    padding: 0px;
 }
 
 footer {
@@ -81,4 +80,6 @@ footer {
 
 section {
 	background-color: #ffffa3;
+	float: left;
+	width: 50%;
 }
