@@ -80,8 +80,10 @@ footer {
 }
 
 section {
-	background-color: #ffffa3;
+	margin: 1em;
+}
+
+#inlay{
 	float: left;
 	width: 50%;
-	margin: 1em;
 }
