@@ -52,7 +52,7 @@ nav {
 
 #wrapper{
 	margin: 1em auto;
-	width: 1600px;
+	width: 1200px;
 	background-color: #e8dab9;
 }
 
@@ -85,5 +85,5 @@ section {
 
 #inlay{
 	float: left;
-	width: 50%;
+	width: 45%;
 }
