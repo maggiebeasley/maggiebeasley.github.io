@@ -1,5 +1,6 @@
 body {
 	background: #fdc9ed;
+	width: 1200px;
 	}
 
 h1, h2, h3, h4 {
@@ -54,6 +55,10 @@ nav {
 	margin: 1em auto;
 	width: 1200px;
 	background-color: #e8dab9;
+}
+
+#body-text{
+	padding: 15px 30px 15px 30px;
 }
 
 aside {
